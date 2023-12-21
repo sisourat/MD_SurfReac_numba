@@ -1,0 +1,8 @@
+{ "potentialA": {"eunit": "eV", "runit": "Angstrom", "D_a":  2.45, "Delta_a":  0.2, "alpha_a":  1.0 },
+  "potentialM": {"eunit": "eV", "runit": "Angstrom", "D_m":  4.745, "Delta_m":  -0.2, "alpha_m":  1.943 },
+  "masses": {"munit": "amu", "mt": 1.00794, "mp": 1.00794},
+  "sysparam": {"runit": "Angstrom", "r_rec":  4.0, "r0":  0.74, "z0": 0.0},
+  "dynamics": {"eunit": "eV", "runit": "Angstrom", "nb": 50, "bmin": 0.1, "bmax": 2.0, "ecoll": 0.6,
+               "zp_i": 30.0},
+  "param": {"tunit":  "fs", "runit": "Angstrom", "tmax": 2000, "dt": 1, "dz": 0.001, "dZ": 0.001, "drho": 0.001, "ntraj": 200}
+}
